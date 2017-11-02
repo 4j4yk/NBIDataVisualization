@@ -10,11 +10,11 @@ Yet to be included.
 
 Yet to be included. 
 
-# License
+## License
 This repo is licensed under [GPL v3](/LICENSE).
 
 Copyright (c) Ajay Khampariya, Shrikanth Vadla 2017
 
-# Contribute
+## Contribute
 
 You can help this project in many ways, such as suggestions, reporting issues and contribute in coding.  
