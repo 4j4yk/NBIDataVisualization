@@ -10,7 +10,14 @@ This application is fully developed on the Django REST framework and Ember, whic
 
 ## Installation
 
-Yet to be included. 
+git clone <repository-url> //current repository url
+cd NBIDataVisualization
+npm install
+
+## Running/Development
+
+ember serve
+Visit the app at http://localhost:4200
 
 ## Getting Started
 
