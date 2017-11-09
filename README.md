@@ -1,12 +1,12 @@
-# BridgeDataVisualization 
+# NBI Data Visualization 
 
 ## Executive Summary
 
-This application helps in visuallzing the Bridge data which [National Bridge Inventory (NBI)](https://www.fhwa.dot.gov/bridge/nbi.cfm) annually submit to FHWA by the States, Federal agencies, and Tribal governments.
+This application helps in visualizing the Bridge data which [National Bridge Inventory (NBI)](https://www.fhwa.dot.gov/bridge/nbi.cfm) annually submit to FHWA by the States, Federal agencies, and Tribal governments.
 
-The purpose of this project is to visualize the NBI data and provide users with secure methods to visualize the NBI data and help them in their analysis. Through the web application, user will be able to create account for NBI data visualization and would be able to generate various charts for various selection criteria. Main features of this web application are fast retrieval of the NBI data, present the data in tables, 2 Dimensional charts like Pie chart, Bar chart etc., These features help users to analyze the NBI data quickly and make further decisions.
+The purpose of this project is to provide a web application to visualize the NBI data and help users to analyze the NBI data in a fast and secure manner. Through this web application, user will be able to create account for NBI data visualization and would be able to access and generate summaries, tabular representation and 2D charts for various selection criteria's like Bridge Record Distribution by State, by Ownership, by Deck Area, by Total Average Daily Traffic etc., on the NBI data. Main features of this web application are fast retrieval of the NBI data, present the NBI data in Tabular form, 2 Dimensional Charts like Pie chart, Bar chart etc., These features help users to understand and analyze the NBI data quickly and make further decisions.
 
-This project fully relied on the Django REST framework and Ember frontend , which enables the test-driven development and the application security.
+This application is fully developed on the Django REST framework and Ember, which enables the test-driven development and the application security.
 
 ## Installation
 
