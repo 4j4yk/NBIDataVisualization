@@ -12,7 +12,7 @@ This application is fully developed on the Django REST framework and Ember, whic
 
 You need to run the following commands for the installation :
 
-  1. git clone <repository-url> //current repository url
+  1. git clone << repository-url >> //current repository url
 
   2. cd NBIDataVisualization
 
@@ -24,7 +24,7 @@ You need to run the following commands to run the installed application :
 
   1. ember serve
 
-  2. Visit the app at http://localhost:4200
+  2. visit the application at http://localhost:4200
 
 ## Getting Started
 
