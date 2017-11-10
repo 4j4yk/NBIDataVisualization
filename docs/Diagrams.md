@@ -9,4 +9,8 @@
 * ![Summary Page](./mockup_diagrams/Summarization.jpg)
 * ![Tables Page](./mockup_diagrams/TabularView.jpg)
 
-
+### C4 Architecture Diagrams
+---
+* ![System Context](./mockup_diagrams/Containers.jpeg)
+* ![Container](./mockup_diagrams/Containers.jpeg)
+* ![Component](./mockup_diagrams/Containers.jpeg)
