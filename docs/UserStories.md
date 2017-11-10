@@ -1,4 +1,4 @@
-# Bridge Data Visualization
+# NBI Data Visualization
 
 ## User Stories
  1. As a user, I should be able to access NBI Data Visualization web application, so that I can analyze NBI data.
