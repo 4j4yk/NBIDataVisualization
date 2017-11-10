@@ -48,7 +48,7 @@
 
  10. As a user, I should be able to view more details of NBI data based on various variants, so that i can better understand and analyze the NBI data.
 
-    *Acceptance Criteria:* User should be able to see the NBI data in Summarized form, Tabular form, Graphical form and in Geographical maps on the respective pages.
+   *Acceptance Criteria:* User should be able to see the NBI data in Summarized form, Tabular form, Graphical form and in Geographical maps on the respective pages.
 
 
 
