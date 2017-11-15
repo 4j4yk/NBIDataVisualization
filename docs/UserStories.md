@@ -36,17 +36,12 @@
    *Acceptance Criteria:* User should be able to see the home page soon he click homepage tab.
 
 
- 8. As a user, I should be able to navigate to about page, so that I can view the details of the NBI data application. 
+ 8. As a user, I should be able to navigate to different pages, so that I can view the details and contact information regarding NBI data application. 
 
-   *Acceptance Criteria:* User should be able to see the details regarding NBI data application in the about page soon he click on about page tab.
-
-
- 9. As a user, I should be able to navigate to contact page, so that I can view the contact details of the NBI data application. 
-
-   *Acceptance Criteria:* User should be able to see the contact details of NBI Application in the contact page soon he click on contactus page tab.
+   *Acceptance Criteria:* User should be able to see the details regarding NBI data application soon he click respective pages.
 
 
- 10. As a user, I should be able to view more details of NBI data based on various variants, so that i can better understand and analyze the NBI data.
+ 9. As a user, I should be able to view more details of NBI data based on various variants, so that i can better understand and analyze the NBI data.
 
    *Acceptance Criteria:* User should be able to see the NBI data in Summarized form, Tabular form, Graphical form and in Geographical maps on the respective pages.
 
