@@ -13,4 +13,4 @@
 ---
 * ![System Context](./Diagrams/SystemContext.jpeg)
 * ![Container](./Diagrams/Containers.jpeg)
-* ![Component](./Diagrams/Components.jpeg)
+* ![Component](./Diagrams/component.png)
