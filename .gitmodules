@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/akhampariya/NBIDataVisualization-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/akhampariya/NBIDataVisualization-frontend
