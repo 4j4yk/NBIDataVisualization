@@ -1,0 +1,1000 @@
+  789  cd ..
+  790  ls
+  791  cd super-rentals/
+  792  ls
+  793  cd ..
+  794  ember t -s
+  795  ember s -t
+  796  cd super-rentals/
+  797  ember t -s
+  798  ember s
+  799  ember t -s
+  800  ember build
+  801  ember t -s
+  802  ps -a
+  803  ember t
+  804  atom .
+  805  ember t -s
+  806  cd ..
+  807  git clone https://github.com/ember-learn/super-rentals.git
+  808  cd super-rentals/
+  809  ember t -s
+  810  yarn install
+  811  ember build
+  812  sudo apt install cmdtest
+  813  yarn install
+  814  ls
+  815  ember build
+  816  npm install
+  817  ember t -s
+  818  ember s
+  819  GOOGLE_MAPS_API_KEY=AIzaSyB6uW9LrPGFFoVMcW2UwEsIBHIiIB2RRBE ember s
+  820  ember t -s
+  821  ember s
+  822  cd ..
+  823  cd Ember_Intro/
+  824  cd Sup
+  825  cd super-rentals/
+  826  ember build
+  827  git status
+  828  cd ..
+  829  git status
+  830  git add .
+  831  git status
+  832  git commit -am "updated the remaining test case and fixed some problems"
+  833  git add .
+  834  git commit -am "updated the remaining test case and fixed some problems"
+  835  git commit -m "updated the remaining test case and fixed some problems"
+  836  cd super-rentals/
+  837  git status
+  838  git add .
+  839  git branch
+  840  cd ..
+  841  cd em
+  842  git branch
+  843  git status
+  844  git add super-rentals/
+  845  git status
+  846  cd ..
+  847  cd Ember_Intro/
+  848  cd super-rentals/
+  849  git status
+  850  cd ..
+  851  git commit -am "updated the remaining test case and fixed some problems"
+  852  cd super-rentals/
+  853  git commit -am "updated the remaining test case and fixed some problems"
+  854  git push origin
+  855  git push --set-upstream origin master
+  856  cd ..
+  857  git status
+  858  git push origin
+  859  git add .
+  860  git status
+  861  git commit -am "updated the remaining test case and fixed some problems"
+  862  git push origin
+  863  git status
+  864  git checkout master
+  865  git merge version-01
+  866  git push origin
+  867  git checkout version-01
+  868  cd super-rentals/
+  869  ember s
+  870  ember s -t
+  871  ember -t
+  872  ember -t s
+  873  ember s -t
+  874  git push
+  875  git status 
+  876  cd ..
+  877  ls
+  878  git push
+  879  ls
+  880  git add .
+  881  git add super-rentals/*
+  882  ls
+  883  cd super-rentals/
+  884  git add .
+  885  git stat
+  886  git status 
+  887  git push sub-m
+  888  cd ..
+  889  git push origin master --recurse-submodules=on-demand
+  890  git push --recurse-submodules=on-demand
+  891  git push -f
+  892  git submodule update --remote
+  893  cd super-rentals/
+  894  git submodule update --remote
+  895  git push
+  896  git branch 
+  897  git remote 
+  898  git remote -v
+  899  git push submodule
+  900  git pull
+  901  cd ..
+  902  git pull
+  903  git push submodule
+  904  git remote -v
+  905  git submodule update --remote
+  906  git branch 
+  907  git push --recurse-submodules=on-demand
+  908  git push --recurse-submodules=check 
+  909  ls
+  910  git branch
+  911  git status
+  912  ls
+  913  git status
+  914  git log
+  915  gitk @
+  916  ls
+  917  cleaqr
+  918  cklear
+  919  clear
+  920  ls
+  921  cd ..
+  922  ;s
+  923  ls
+  924  cd Ember_Intro/
+  925  ls
+  926  git status
+  927  git branch
+  928  cd super-rentals/
+  929  ls
+  930  git branch
+  931  git status
+  932  git log
+  933  clear
+  934  ls
+  935  cd ..
+  936  ls
+  937  cd tests/
+  938  ls
+  939  cd ..
+  940  cd super-rentals/
+  941  ls
+  942  git branch
+  943  git checkout -b version-02
+  944  git push
+  945  git remote add version-02 https://github.com/sri786/Ember_Intro
+  946  git push
+  947  git push version-02
+  948  git push --set-upstream remote version-02
+  949  git push --set-upstream origin version-02
+  950  git push --set-upstream version-02 version-02
+  951  cd ..
+  952  ls
+  953  cd Ember_Intro/
+  954  cd super-rentals/
+  955  ls
+  956  cat Rea
+  957  cat README.md
+  958  cd Documents/
+  959  ls
+  960  git clone https://github.com/akhampariya/NBIDataVisualization
+  961  git status
+  962  cd NBIDataVisualization/
+  963  git status
+  964  ls
+  965  cd docs/
+  966  ls
+  967  git status
+  968  git add .
+  969  git status
+  970  git commit -m "renamed the folder to Diagrams"
+  971  git status
+  972  git push origin
+  973  git status
+  974  git add .
+  975  git commit -m "renamed the file SignUp.jpg"
+  976  git push origin
+  977  cd ..
+  978  git status
+  979  git push origin
+  980  git pull
+  981  git pull origin
+  982  cd Documents/
+  983  cd NBIDataVisualization/
+  984  git status
+  985  git pull 
+  986  git status
+  987  git push origin
+  988  git status
+  989  ember new NBI-Data-Visualization-frontend
+  990  git status
+  991  git add .
+  992  git status
+  993  git commit -m "created the web app NBI-Data-Visualization-frontend using ember"
+  994  git status
+  995  git push origin
+  996  git status
+  997  cd NBI-Data-Visualization-frontend/
+  998  git status
+  999  cd ..
+ 1000  git status
+ 1001  cd NBI-Data-Visualization-frontend/
+ 1002  ls
+ 1003  cd ..
+ 1004  git add .
+ 1005  git status
+ 1006  ls
+ 1007  git status
+ 1008  git branch
+ 1009  git remote show origin
+ 1010  cd NBI-Data-Visualization-frontend/
+ 1011  ls
+ 1012  git branch
+ 1013  cd ..
+ 1014  git remote show origin
+ 1015  ls
+ 1016  cd NBI-Data-Visualization-frontend/
+ 1017  ls
+ 1018  git status
+ 1019  cd ..
+ 1020  cd NBI-Data-Visualization-frontend/
+ 1021  touch a
+ 1022  ls
+ 1023  cd  ..
+ 1024  git status
+ 1025  git add -A
+ 1026  git push
+ 1027  git statu
+ 1028  git status
+ 1029  git push
+ 1030  git status
+ 1031  git add .
+ 1032  git status
+ 1033  git add NBI-Data-Visualization-frontend/*
+ 1034  git add NBI-Data-Visualization-frontend/
+ 1035  git status
+ 1036  git add
+ 1037  git add .
+ 1038  git status
+ 1039  git add .
+ 1040  git status
+ 1041  git commit -A "deleted the folder since contents are not getting staged"
+ 1042  git commit -a "deleted the folder since contents are not getting staged"
+ 1043  git commit -m "deleted the folder since contents are not getting staged"
+ 1044  git status
+ 1045  git push origin
+ 1046  git status
+ 1047  git init
+ 1048  git status
+ 1049  ember new NBI-Data-Visualization-frontend
+ 1050  git status
+ 1051  git add NBI-Data-Visualization-frontend/
+ 1052  git status
+ 1053  git commit -m "created the web app NBI-Data-Visualization-frontend using ember"
+ 1054  git status
+ 1055  git push origin
+ 1056  git status
+ 1057  git add .
+ 1058  git status
+ 1059  git commit -m "updated user stories"
+ 1060  git push origin
+ 1061  git status
+ 1062  git add .
+ 1063  git commit -m "updated user stories and misuser stories"
+ 1064  git push origin
+ 1065  git status
+ 1066  git add .
+ 1067  git commit -m "updated user stories and misuser stories"
+ 1068  git push origin
+ 1069  git status
+ 1070  git add .
+ 1071  git commit -m "minor change in the user story"
+ 1072  git push origin
+ 1073  git status
+ 1074  git add .
+ 1075  git commit -m "updated heading in user stories and misuser stories"
+ 1076  git push origin
+ 1077  git status
+ 1078  ls
+ 1079  cd Documents/
+ 1080  ls
+ 1081  cd NBIDataVisualization/
+ 1082  ls
+ 1083  git status
+ 1084  cd NBI-Data-Visualization-frontend/
+ 1085  ember s
+ 1086  ember install --help
+ 1087  git status
+ 1088  cd ..
+ 1089  git status
+ 1090  cd ..
+ 1091  ls
+ 1092  cd CYBR8470-building-a-webservice-lab/
+ 1093  tree
+ 1094  ls
+ 1095  sudo apt install tree
+ 1096  tree
+ 1097  tree --help
+ 1098  tree -d
+ 1099  cd ..
+ 1100  ls
+ 1101  cd NBIDataVisualization/
+ 1102  ls
+ 1103  git status
+ 1104  ls
+ 1105  cd NBI-Data-Visualization-frontend/
+ 1106  ls
+ 1107  clear
+ 1108  cd ..
+ 1109  clear
+ 1110  tree -d
+ 1111  cd ..
+ 1112  cd CYBR8470-building-a-webservice-lab/
+ 1113  tree -d
+ 1114  ls
+ 1115  tree -d
+ 1116  ls
+ 1117  clear
+ 1118  cd frontend/
+ 1119  clea
+ 1120  clear
+ 1121  cd ..
+ 1122  cd NBIDataVisualization/
+ 1123  git status
+ 1124  git add .
+ 1125  git status
+ 1126  git commit -m "updated misuser stories and user story"
+ 1127  git push origin
+ 1128  git status
+ 1129  cd NBI-Data-Visualization-frontend/
+ 1130  git branch -a
+ 1131  cd ..
+ 1132  git branch -a
+ 1133  git checkout version1.0-Srikanth 
+ 1134  git status
+ 1135  git add .
+ 1136  git commit -m "from master"
+ 1137  git status
+ 1138  git add .
+ 1139  git status
+ 1140  git checkout -f
+ 1141  git status
+ 1142  cd ..
+ 1143  cd NBi
+ 1144  cd NBIDataVisualization/
+ 1145  cd NBI-Data-Visualization-frontend/
+ 1146  git status
+ 1147  sudo rm -rf .git
+ 1148  cd ..
+ 1149  git status
+ 1150  git branch -a
+ 1151  git add.
+ 1152  git add .
+ 1153  git status
+ 1154  git push origin
+ 1155  git status
+ 1156  git pull origin master
+ 1157  git status
+ 1158  sudo rm -rf NBI-Data-Visualization-frontend/
+ 1159  clear
+ 1160  ls
+ 1161  git pull origin master
+ 1162  git pull --force origin master
+ 1163  git status
+ 1164  git checkout .
+ 1165  git reset HEAD --hard
+ 1166  git status
+ 1167  git pull origin master
+ 1168  ls
+ 1169  sudo rm -rf NBI-Data-Visualization-frontend~HEAD
+ 1170  clear
+ 1171  ls
+ 1172  git add .
+ 1173  git status
+ 1174  git add .
+ 1175  git checkout -f
+ 1176  git status
+ 1177  git add ,
+ 1178  git add .
+ 1179  git staus
+ 1180  git status
+ 1181  ls
+ 1182  git pull origin master
+ 1183  git status
+ 1184  git fetch
+ 1185  git status
+ 1186  git reset HEAD --hard
+ 1187  git checkout master
+ 1188  git fetch
+ 1189  git branch -a
+ 1190  git branch -d version1.0-Srikanth 
+ 1191  git branch -a
+ 1192  git fetch
+ 1193  git branch -a
+ 1194  git status 
+ 1195  git --help branch 
+ 1196  git push 
+ 1197  git status
+ 1198  git log
+ 1199  git pull
+ 1200  git fetch
+ 1201  git status
+ 1202  git branch -a
+ 1203  git push origin master
+ 1204  vim .git/
+ 1205  clear
+ 1206  vim .git/branches/
+ 1207  git status
+ 1208  git checkout -b ember-frontend
+ 1209  git status
+ 1210  git checkout ember-frontend 
+ 1211  git bracnch -a
+ 1212  git branch -a
+ 1213  upstream
+ 1214  git --help 
+ 1215  git --help upstream
+ 1216  git --help branch
+ 1217  git pull 
+ 1218  git status
+ 1219  dir
+ 1220  cd Desktop
+ 1221  dir
+ 1222  ls
+ 1223  cd ..
+ 1224  cd Documents/
+ 1225  ls
+ 1226  cd NBIDataVisualization/
+ 1227  ls
+ 1228  dir
+ 1229  git status
+ 1230  dir
+ 1231  cd docs
+ 1232  git status
+ 1233  cd ..
+ 1234  git status
+ 1235  npm install --global surge 
+ 1236  sudo npm install --global surge 
+ 1237  cd NBI-Data-Visualization-frontend/
+ 1238  ember generate route contact
+ 1239  dir
+ 1240  cd ..
+ 1241  dir
+ 1242  cd NBI-Data-Visualization-frontend/
+ 1243  cd ..
+ 1244  ember generate route contact
+ 1245  sudo npm install
+ 1246  cd NBI-Data-Visualization-frontend/
+ 1247  sudo npm install
+ 1248  cd ..
+ 1249  cd NBI-Data-Visualization-frontend/
+ 1250  ember g route about
+ 1251  ember route contact
+ 1252  ember g route contact
+ 1253  ember g route analyze-NBI-data
+ 1254  ember g route nbidata
+ 1255  ember g route index
+ 1256  ember s
+ 1257  ember install ember-bootstrap
+ 1258  ember s
+ 1259  ember generate ember-bootstrap --preprocessor=sass
+ 1260  ember generate ember-bootstrap --bootstrap-version=4
+ 1261  ember s
+ 1262  cd ..
+ 1263  pi-hole
+ 1264  cd ..
+ 1265  pihole
+ 1266  pihole -a
+ 1267  pihole -a -p
+ 1268  cd Documents/
+ 1269  ls
+ 1270  cd NBIDataVisualization/
+ 1271  cd NBI-Data-Visualization-frontend/
+ 1272  ls
+ 1273  git statu
+ 1274  git status
+ 1275  embers 
+ 1276  ember s
+ 1277  ember install ember-cli-d3-shape
+ 1278  sudo ember install ember-cli-d3-shape
+ 1279  sudo ember install ember-d3
+ 1280  ls
+ 1281  cd app/
+ 1282  ls
+ 1283  cd templates/
+ 1284  ls
+ 1285  cd components/
+ 1286  ls
+ 1287  cd ..
+ 1288  ls
+ 1289  cd components/
+ 1290  ls
+ 1291  cd ..
+ 1292  ls
+ 1293  cd ..
+ 1294  cd //
+ 1295  cd ..
+ 1296  cd ~
+ 1297  ls
+ 1298  cd Documents/
+ 1299  ls
+ 1300  mv NBIDataVisualization/ oldnbiproject
+ 1301  ls
+ 1302  ls -la
+ 1303  git clone --recursive https://github.com/akhampariya/NBIDataVisualization.git
+ 1304  git log
+ 1305  cd NBIDataVisualization/
+ 1306  git log
+ 1307  cd backend/
+ 1308  git log 
+ 1309  cd ../frontend/
+ 1310  git log
+ 1311  git branch dev
+ 1312  git branch 
+ 1313  git checkout 
+ 1314  git checkout dev
+ 1315  git pull
+ 1316  git pull dev dev
+ 1317  git branch --set-upstream-to=origin/dev dev
+ 1318  git pull
+ 1319  ember s
+ 1320  npm i
+ 1321  cd frontend/
+ 1322  npm i
+ 1323  ember s
+ 1324  npm doctor
+ 1325  npm i
+ 1326  bower i
+ 1327  npm o
+ 1328  npm help
+ 1329  npm help npm
+ 1330  npm -h
+ 1331  npm rebuild ld
+ 1332  npm rebuild
+ 1333  npm install
+ 1334  npm install -g
+ 1335  sudo npm install -g
+ 1336  ember s
+ 1337  sudo apt-get update 
+ 1338  ember s
+ 1339  ember install ember-simple-auth
+ 1340  ember generate route login
+ 1341  ember generate route register
+ 1342  ember s
+ 1343  ember install ember-paper
+ 1344  ember install ember-transition-helper
+ 1345  ember generate route logout
+ 1346  ember s
+ 1347  cd ..
+ 1348  git clone https://github.com/MLHale/wistem-app-frontend
+ 1349  ls
+ 1350  cd wistem-app-frontend/
+ 1351  ls
+ 1352  git status
+ 1353  git checkout -b dev
+ 1354  git status
+ 1355  git branch
+ 1356  git push origin
+ 1357  git branch -m dev-svadla
+ 1358  git branch
+ 1359  git push origin
+ 1360  ember generate route awardinfo
+ 1361  sudo npm install
+ 1362  ember install ember-paper
+ 1363  sudo ember install ember-paper
+ 1364  ember generate route home
+ 1365  ember generate route login
+ 1366  ember generate route register
+ 1367  ember generate route awardinfo
+ 1368  ember s
+ 1369  ember install ember-transition-helper
+ 1370  sudo ember install ember-transition-helper
+ 1371  ember s
+ 1372  cd .. 
+ 1373  cd NBIDataVisualization/
+ 1374  cd Fron
+ 1375  cd frontend/
+ 1376  ember s
+ 1377  ember s -v
+ 1378  atom .
+ 1379  ember s
+ 1380  sudo ember install ember-transition-helper
+ 1381  sudo ember install ember-paper
+ 1382  ember s
+ 1383  cd Documents
+ 1384  ls
+ 1385  cd NBIDataVisualization/
+ 1386  cd frontend/
+ 1387  git status
+ 1388  git branch
+ 1389  ember s
+ 1390  ember install ember-cli-sass
+ 1391  ember install ember-cli-materialize
+ 1392  ember generate model bridge year:number stateCode structureNumber routeNumber highwayAgencyDistrict countyCode:number placeCode:number location latitude:number longitude:number yearBuilt:number owner:number toll:number averageDailyTraffic:number historicalSignificance:number kindofMaterialDesign:number typeOfDesignConstruction:number  structureLength 
+ 1393  ember generate route bridges
+ 1394  ember s
+ 1395  ember generate controller bridges
+ 1396  ember install ember-paper
+ 1397  ember install ember-cli-materialize
+ 1398  ember s
+ 1399  ember install ember-google-charts
+ 1400  ember s
+ 1401  ember install ember-data-table
+ 1402  ember install paper-data-table
+ 1403  ember s
+ 1404  cd ..
+ 1405  cd wistem-app-frontend/
+ 1406  ls
+ 1407  git branch
+ 1408  ember s
+ 1409  cd ..
+ 1410  cd NBIDataVisualization/
+ 1411  ember s
+ 1412  cd frontend/
+ 1413  ember s
+ 1414  ls
+ 1415  atom .
+ 1416  ember g controller register
+ 1417  atom .
+ 1418  cd ..
+ 1419  cd wistem-app-frontend/
+ 1420  git branch
+ 1421  ember s
+ 1422  exit
+ 1423  ls
+ 1424  chmod u ap.scss
+ 1425  chmod 777 ap.scss
+ 1426  chmod u app.scss
+ 1427  chmod 777 app.scss
+ 1428  sudo chmod 777 app.scss
+ 1429  cd ..
+ 1430  ember s
+ 1431  git status
+ 1432  git branch
+ 1433  git status
+ 1434  git add .
+ 1435  git status
+ 1436  git commit -m "added the basic form without functionality"
+ 1437  git status
+ 1438  git push origin
+ 1439  git status
+ 1440  git pull
+ 1441  git branch --set -upstream-to=origin/dev-svadla
+ 1442  git status
+ 1443  git push origin
+ 1444  git status
+ 1445  cd ..
+ 1446  cd NBIDataVisualization/
+ 1447  git branch
+ 1448  cd frontend/
+ 1449  git branch
+ 1450  git pull
+ 1451  git sta
+ 1452  git status 
+ 1453  cd .. 
+ 1454  mkdir testdev
+ 1455  cd testdev/
+ 1456  git clone --recursive https://github.com/akhampariya/NBIDataVisualization.git
+ 1457  cd NBIDataVisualization/
+ 1458  docker-compose up
+ 1459  docker-compose build 
+ 1460  docker-compose up
+ 1461  ps -a
+ 1462  docker-compose --build --force-rm
+ 1463  docker-compose build --force-rm
+ 1464  docker-compose run django bas
+ 1465  docker-compose run django bash
+ 1466  docker-compose up
+ 1467  docker-compose build --force-rm 
+ 1468  docker-compose up
+ 1469  ls
+ 1470  vi docker-compose.yml 
+ 1471  vi Dockerfile 
+ 1472  vi docker-compose.yml 
+ 1473  remote
+ 1474  reboot
+ 1475  sudo reboot
+ 1476  atom .
+ 1477  exit
+ 1478  ls
+ 1479  ember s
+ 1480  npm i
+ 1481  ember s
+ 1482  exit
+ 1483  cd testd
+ 1484  cd ~/testdev
+ 1485  cd Documents/
+ 1486  ls
+ 1487  cd ~testdev
+ 1488  cd ~/testdev
+ 1489  cd testdev/
+ 1490  cd NBIDataVisualization/
+ 1491  docker-compose up
+ 1492  docker-compose build --force-rm 
+ 1493  docker-compose up
+ 1494  cd .. 
+ 1495  cd..
+ 1496  cd NBIDataVisualization/
+ 1497  docker-compose up
+ 1498  cd ..
+ 1499  cd NBIDataVisualization/
+ 1500  docker-compose up
+ 1501  docker info
+ 1502  nmap localhost
+ 1503  sudo nginx -s stop
+ 1504  django
+ 1505  docker ps -a
+ 1506  docker stop *
+ 1507  docker image * stop
+ 1508  docker stop $(docker ps -a -q)
+ 1509  docker-compose up
+ 1510  docker rm $(docker ps -a -q)
+ 1511  docker rmi $(docker ps -a -q)
+ 1512  docker ps -a -q
+ 1513  docker images
+ 1514  docker rm 3d6fd05cb60f
+ 1515  docker rmi 3d6fd05cb60f
+ 1516  docker i
+ 1517  docker images *
+ 1518  docker images 
+ 1519  docker containers
+ 1520  docker container
+ 1521  docker-compose up
+ 1522  docker-compose build --force-rm 
+ 1523  docker-compose up
+ 1524  docker-compose stop
+ 1525  docker-compose up
+ 1526  docker-compose down
+ 1527  docker-compose up
+ 1528  docker-compose down
+ 1529  docker-compose build --force-rm 
+ 1530  netstat -tlnp | grep 80
+ 1531  ps -eaf | grep 1380
+ 1532  sudo kill 1380 
+ 1533  ps -eaf | grep 1380
+ 1534  ps -eaf 
+ 1535  ps -eaf | grep 8000
+ 1536  netstat -tlnp | grep 80
+ 1537  sudo fuser -k 80/tcp
+ 1538  docker-compose build --force-rm 
+ 1539  docker-compose up
+ 1540  cd .. 
+ 1541  cd testdev/
+ 1542  docker-compose run django bash
+ 1543  docker-compose up
+ 1544  cd NBIDataVisualization/
+ 1545  ls
+ 1546  docker-compose run django bash
+ 1547  docker-compose up
+ 1548  docker-compose run django bash
+ 1549  docker-compose up
+ 1550  exit
+ 1551  git status
+ 1552  fg %2
+ 1553  cd Documents/
+ 1554  cd NBIDataVisualization/
+ 1555  cd frontend/
+ 1556  ember s
+ 1557  ember g route summary
+ 1558  ember g controller summary
+ 1559  ember s
+ 1560  cd ..
+ 1561  cd wistem-app-frontend/
+ 1562  ember s
+ 1563  git status
+ 1564  git branch
+ 1565  git status
+ 1566  git branch
+ 1567  git push origin
+ 1568  git fetch
+ 1569  git status
+ 1570  git push origin
+ 1571  git pull
+ 1572  git pull origin master
+ 1573  git config
+ 1574  git status
+ 1575  git add .
+ 1576  git status
+ 1577  git commit -m "changes from origin"
+ 1578  git status
+ 1579  git push origni
+ 1580  git push origin
+ 1581  ember s
+ 1582  cd..
+ 1583  cd ..
+ 1584  cd NBIDataVisualization/
+ 1585  cd frontend/
+ 1586  ember s
+ 1587  cd frontend/
+ 1588  ls
+ 1589  git log
+ 1590  git pull
+ 1591  git branch 
+ 1592  git pull dev dev
+ 1593  git checkout -b dev
+ 1594  git pull
+ 1595  git branch --set-upstream-to=origin/dev dev 
+ 1596  git pull
+ 1597  sgit stash
+ 1598  git stash
+ 1599  git pull
+ 1600  git log 
+ 1601  code 
+ 1602  atom .
+ 1603  git status
+ 1604  git branch
+ 1605  git add .
+ 1606  git status
+ 1607  cd ..
+ 1608  cd .
+ 1609  cd ..
+ 1610  cd ..cd
+ 1611  cd NBIDataVisualization/
+ 1612  cd frontend/
+ 1613  git branh
+ 1614  git branch
+ 1615  git status
+ 1616  git add.
+ 1617  git add .
+ 1618  git status
+ 1619  git commit -m "added front end pages" 
+ 1620  git status
+ 1621  git push origin
+ 1622  git pull
+ 1623  atom .
+ 1624  cd ../../testdev/NBIDataVisualization/frontend/
+ 1625  git status 
+ 1626  git add . 
+ 1627  git commit -m "Fix merge issues"
+ 1628  git push
+ 1629  cd ../../NBIDataVisualization/frontend/
+ 1630  ls
+ 1631  git pull
+ 1632  git status 
+ 1633  git push
+ 1634  atom .
+ 1635  cd ..
+ 1636  cd ...
+ 1637  cd ..
+ 1638  cd NBIDataVisualization/
+ 1639  cd frontend/
+ 1640  git status 
+ 1641  gi pull
+ 1642  git pull
+ 1643  vi app/router.js 
+ 1644  atom .
+ 1645  git add .
+ 1646  git commit -m "update routes"
+ 1647  git push
+ 1648  git fetch
+ 1649  git push
+ 1650  git pull 
+ 1651  gi pull
+ 1652  git pull 
+ 1653  git status 
+ 1654  git add .
+ 1655  git commit -m "fix conflicts"
+ 1656  git push 
+ 1657  git pull
+ 1658  atom .
+ 1659  ember s
+ 1660  npm i
+ 1661  ember s
+ 1662  cd ..
+ 1663  cd backend/
+ 1664  ls
+ 1665  git pull
+ 1666  git pull master master
+ 1667  git log
+ 1668  git branch 
+ 1669  git pull
+ 1670  ls
+ 1671  git pull --force 
+ 1672  git pull --force master master
+ 1673  git add remote
+ 1674  git add remote master git@github.com:akhampariya/NBIDataVisualization-backend.git
+ 1675  git remote -v
+ 1676  git pull origin master
+ 1677  cd ..
+ 1678  history 
+ 1679  sudo fuser -k 80/tcp
+ 1680  docker-compose up
+ 1681  fg %1
+ 1682  cd frontend/
+ 1683  ember s
+ 1684  fg %2
+ 1685  cd Documents/
+ 1686  cd NBIDataVisualization/
+ 1687  cd frontend
+ 1688  $ ember install ember-leaflet
+ 1689  ember install ember-leaflet
+ 1690  ember s
+ 1691  npm install
+ 1692  install ember-leaflet
+ 1693  npm install --save ember-leaflet
+ 1694  ember s
+ 1695  cd doc
+ 1696  cd Documents/
+ 1697  cd NBi
+ 1698  cd NBIDataVisualization/
+ 1699  cd frontend/
+ 1700  ember s
+ 1701  git status
+ 1702  ember s
+ 1703  cd Documents
+ 1704  cd NBIDataVisualization/
+ 1705  cd frontend/
+ 1706  git add .
+ 1707  git status
+ 1708  git commit -m "changes for the ember table and new routes"
+ 1709  git status
+ 1710  git branch
+ 1711  git push origin
+ 1712  git pull
+ 1713  cd Documents/
+ 1714  ls
+ 1715  git clone https://github.com/jenweber/ember-google-charts-example
+ 1716  cd ember-google-charts-example/
+ 1717  ember s
+ 1718  npm install
+ 1719  sudo npm install
+ 1720  ember s
+ 1721  cd ..
+ 1722  cd NBIDataVisualization/
+ 1723  cd frontend
+ 1724  ember s
+ 1725  cd ..
+ 1726  cd WISTEM/
+ 1727  git clone https://github.com/sri786/wistem-app-frontend
+ 1728  cd wistem-app-frontend/
+ 1729  ember s
+ 1730  sudo npm install
+ 1731  git pull
+ 1732  ember s
+ 1733  git status
+ 1734  git log
+ 1735  git status
+ 1736  git branch
+ 1737  cd ..
+ 1738  cd wistem-app-frontend/
+ 1739  git branch
+ 1740  git status
+ 1741  git log
+ 1742  git pull 
+ 1743  git checkout master
+ 1744  git pull origin
+ 1745  git status
+ 1746  git branch
+ 1747  git merge dev-svadla
+ 1748  sudo apt git-gui
+ 1749  sudo apt-get git-gui
+ 1750  sudo apt-get install git-gui
+ 1751  git status
+ 1752  git gui
+ 1753  git status
+ 1754  git branch
+ 1755  git push origin
+ 1756  git status
+ 1757  ember s
+ 1758  npm install
+ 1759  sudo npm install
+ 1760  ember s
+ 1761  cd ..
+ 1762  cd Documents/
+ 1763  dir
+ 1764  cd ember-google-charts-example/
+ 1765  ember s
+ 1766  atom .
+ 1767  ember s
+ 1768  cd ..
+ 1769  cd NBIDataVisualization/
+ 1770  git status
+ 1771  cd ..
+ 1772  ls
+ 1773  mnbd
+ 1774  mkdir nbd
+ 1775  cd nbd/
+ 1776  git clone --recursive https://github.com/akhampariya/NBIDataVisualization.git
+ 1777  cd ba
+ 1778  ls
+ 1779  cd NBIDataVisualization/
+ 1780  cd backend/
+ 1781  cd ..
+ 1782  docker-compose build
+ 1783  docker-compose up
+ 1784  psps
+ 1785  ps
+ 1786  ps -a
+ 1787  history 
+ 1788  history >> cmd.txt
